@@ -1,8 +1,6 @@
 <h1 align="center">Hola, Name's Yannis</h1>
 <h3 align="center">Indie mobile developer with a fullstack mindset</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ynniss&label=Profile%20views&color=0e75b6&style=flat" alt="ynniss" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yannis-ml-mekaouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yannis mekaouche" height="30" width="40" /></a>
